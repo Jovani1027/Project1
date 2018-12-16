@@ -1,0 +1,61 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html body{
+  font-family:verdana,sans-serif;
+  box-sizing: border-box;
+  background-color: blue;
+  text-align: center;
+  width: 100%;
+  height: 100%
+  padding:0px;
+  margin: 0px;
+}
+.nav{
+  font-size: 20px;
+  display: block;
+  color: black;
+  background-color: lightgrey;
+  align-items: center;
+  margin: 70px;
+  padding: 20px;
+  line-height: 150%;
+
+}
+label{
+  font-size: 30px;
+  display: block;
+  background-color: #8CDD5B;
+  color: black;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.Animal1{
+  box-sizing: border-box;
+  font-size: 60px;
+  color: black;
+  display: block;
+  background-color: #31393D;
+  margin: 70px;
+}
+table, th, td {
+    border: 1px solid black;
+    align-content: center;
+    margin: auto;
+    font-size: 30px;
+    background-color: green;
+    padding: 20px;
+}
+.animalfact{
+  box-sizing: border-box;
+  display: block;
+  background-color: #A0C08F;
+  font-size: 30px;
+  line-height: 100%;
+  margin: 5px;
+}
+.pictures{
+  margin-right: 600px;
+}

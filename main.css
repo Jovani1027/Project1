@@ -1,0 +1,79 @@
+* {
+box-sizing:border-box;
+margin:0;
+padding:0;
+}
+.Pagetitle{
+  display: block;
+  filter: drop-shadow(50);
+  font-weight: 100px;
+  filter: blur(100%);
+  margin: 100px;
+  font-family: 'Bungee Shade', cursive;
+  font-size: 50px;
+  padding: 15px;
+}
+
+html,body {
+font-family:verdana,sans-serif;
+font:16px;
+line-height:16px;
+border:none;
+text-align:center;
+width:100%;
+height:100%;
+}
+.nav{
+  font-size: 20px;
+  display: block;
+  color: black;
+  background-color: lightgrey;
+  align-items: center;
+  margin: 70px;
+  padding: 20px;
+  line-height: 150%;
+  
+}
+
+label{
+  font-size: 30px;
+  display: block;
+  background-color: #8CDD5B;
+  color: black;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.header {
+display:block;
+background:#027BB5;
+color:#000;
+font-size:30px;
+padding: 20px;
+margin: 70px;
+line-height: normal;
+}
+
+p{
+  line-height: normal;
+}
+.Animallist{
+  display:block;
+  background:#027BB5;
+  color:#000;
+  font-size:30px;
+  padding: 20px;
+  margin: 70px;
+  line-height: normal;
+}
+.nav ul,dl,a:hover{
+  color: green;
+}
+.contentbox{
+  display: block;
+  padding: 15px;
+  margin: 70px;
+  background-color: grey;
+  font-size: 30px;
+  line-height: normal;
+
+}
